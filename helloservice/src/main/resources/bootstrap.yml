@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hello-52n
+  cloud:
+    config:
+      uri: http://localhost:8888
